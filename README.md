@@ -1,2 +1,2 @@
 # SimpleWhaleDemo
-docker containers
+simple docker containers 
